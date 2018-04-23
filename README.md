@@ -22,7 +22,8 @@ Develop a copy of this game in terminal mode, using the ncurses library.
 Usage:
 
 ./my_sokoban map
-map     file representing the warehouse map, containing ‘#’ for walls, ‘P’ for the player, ‘X’ for boxes and ‘O’ for storage locations.
+map     file representing the warehouse map, containing ‘#’ for walls,
+        ‘P’ for the player, ‘X’ for boxes and ‘O’ for storage locations.
 
 Example:
 
